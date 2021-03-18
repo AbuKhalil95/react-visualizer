@@ -1,0 +1,249 @@
+{
+  "restaurantsData": [
+    {     
+      "name": "Abbott - Marquardt",
+      "description": "4th generation",
+      "location": "625 Rowland Meadow",
+      "image": "http://placekitten.com/500/600",
+      "total_ratings": 26964,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Licensed",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Incredible",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Russel LLC",
+      "description": "fault-tolerant",
+      "location": "2982 Mueller Fall",
+      "image": "http://placekitten.com/1200/600",
+      "total_ratings": 51122,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Licensed",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Incredible",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Stamm, Grant and Upton",
+      "description": "high-level",
+      "location": "6084 Waters Key",
+      "image": "http://placekitten.com/1200/1200",
+      "total_ratings": 25381,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Licensed",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Incredible",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Schiller - Wiza",
+      "description": "local",
+      "location": "6193 Neil Glen",
+      "image": "http://placekitten.com/1200/600",
+      "total_ratings": 36902,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Carnivor",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Sugar Free",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Feest - Casper",
+      "description": "leading edge",
+      "location": "76786 Corwin Spur",
+      "image": "http://placekitten.com/1200/600",
+      "total_ratings": 89333,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Licensed",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Incredible",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Cremin Inc",
+      "description": "multi-state",
+      "location": "176 Lubowitz Heights",
+      "image": "http://placekitten.com/1200/600",
+      "total_ratings": 41225,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Veggie",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Incredible",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    },
+    {
+      "name": "Heidenreich Inc",
+      "description": "zero tolerance",
+      "location": "340 Stokes Loop",
+      "image": "http://placekitten.com/1200/600",
+      "total_ratings": 74059,
+      "review": [
+        {
+          "user": "Elian3",
+          "review": "Quibusdam culpa quo sed voluptatum.",
+          "rating": 96772
+        },
+        {
+          "user": "Martine78",
+          "review": "Iusto optio sit magnam.",
+          "rating": 58755
+        }
+      ],
+      "menu": [
+        {
+          "item": "Handcrafted Concrete Table",
+          "category": "Licensed",
+          "ingredients": "Rubber",
+          "calories": 96220,
+          "nutrition": "utilize"
+        },
+        {
+          "item": "Gorgeous Wooden Salad",
+          "category": "Keto",
+          "ingredients": "Metal",
+          "calories": 11246,
+          "nutrition": "embrace"
+        }
+      ]
+    }
+  ]
+}
