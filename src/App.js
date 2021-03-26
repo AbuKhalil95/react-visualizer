@@ -2,9 +2,9 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
 import './App.css';
-import { Header } from './view/Header';
-import { Main } from './view/Main';
-import { Footer } from './view/Footer';
+import { Header } from './views/Header';
+import { Main } from './views/Main';
+import { Footer } from './views/Footer';
 
 function App() {
   return (

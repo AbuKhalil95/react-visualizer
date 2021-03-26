@@ -96,8 +96,8 @@ export const CardContainer = (props) => {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          {props.menu.map(meal => {
-            return <Typography paragraph>
+          {props.menu.map((meal, idx) => {
+            return <Typography paragraph key={idx}>
             <b>{meal.item}</b> {meal.calories} kCal<br/>
             <i>{meal.category}</i><br/>
             

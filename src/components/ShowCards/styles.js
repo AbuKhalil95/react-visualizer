@@ -3,21 +3,9 @@ import { makeStyles } from '@material-ui/core/styles';
 export const useStyles = makeStyles((theme) => ({
   root: {
   },
-
-  chipContainer: {
-    position: 'relative',
-    maxWidth: '60%',
-    margin: 'auto',
-    textAlign: 'center',
-    padding: '4em',
-    display: 'flex',
-    overflowX: 'auto',
-    placeContent: 'space-between',
-  },
-  chip: {
-    padding: '1em'
-  },
   cardContainer: {
+    position: 'relative',
+    top: '5%',
     maxWidth: '95%',
     minHeight: '65vh',
     margin: 'auto',
@@ -39,19 +27,6 @@ export const useStyles = makeStyles((theme) => ({
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
   },
-  reset: {
-    position: 'absolute',
-    top: '6em',
-    left: '2%',
-    fontSize: '1.5em',
-    padding: '1em',
-    borderRadius: '1em',
-  },
-  pagination: {
-    padding: '2em !important',
-    placeContent: 'center',
-  }
-
 }));
 
 
