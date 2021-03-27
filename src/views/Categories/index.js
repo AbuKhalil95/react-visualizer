@@ -2,11 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { useStyles } from './styles.js';
 
 // main components to show categories
-import { FilterBar } from '../FilterBar';
-import { ShowCards } from '../ShowCards';
-import { PaginationWrapper } from '../Pagination';
+import { FilterBar } from '../../components/FilterBar';
+import { ShowCards } from '../../components/ShowCards';
+import { PaginationWrapper } from '../../components/Pagination';
 // passed in props components to specialize how its shown
-import { CardContainer } from '../Card';
+import { CardContainer } from '../../components/Card';
 // mock data to get things started
 import { restaurantsData } from '../../data.json';
 

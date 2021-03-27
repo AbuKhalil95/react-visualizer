@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 import { useStyles } from './styles.js';
-import { LandingPage } from '../../components/LandingPage';
-import { Categories } from '../../components/Categories';
+import { LandingPage } from '../LandingPage';
+import { Categories } from '../Categories';
 
 
 export const Main =  (props) => {
@@ -22,5 +22,3 @@ export const Main =  (props) => {
     </div>
   );
 };
-
-
